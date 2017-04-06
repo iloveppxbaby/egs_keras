@@ -1,0 +1,4 @@
+./metadata//scores//ASVspoof2017_dev.trl.dnn.cqcc.lab
+eer = 0.0811 dcfn_1 = 1.0000 dcfn_2 = 1.0000 mindcf16 = 1.0000
+fa:miss :  0.0001:1.0000 0.0005:1.0000 0.0010:1.0000
+auc = 0.9544
