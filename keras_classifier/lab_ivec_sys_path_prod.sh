@@ -10,6 +10,7 @@ fea_tail=.htk.lab
 fea_tail=.tfc.org
 fea_tail=.plp.org
 fea_tail=.cqcc.lab
+fea_tail=.cqcc
 
 istat_tail=.istat${fea_tail}.${mix}
 ivec_tail=.ivec${fea_tail}.${mix}
